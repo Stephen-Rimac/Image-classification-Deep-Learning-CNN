@@ -3,7 +3,7 @@ This Jupyter notebook will help aspiring data scientists learn and practice the 
 
 ## Table of Contents
 1. Introduction to our first task: 'Dogs vs Cats'
-1.1. Data download
+1.1.  Data download
 1. First look at cat pictures
 1. Model
 1. Analyzing results: looking at pictures
